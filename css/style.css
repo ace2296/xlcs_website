@@ -736,6 +736,13 @@ margin-top: 50px;
 	#top_row img, #bottom_row img {
 		width: 100%;
 	}
+
+/* Footer
+------------------------------------------*/
+	
+#footer_nav {
+	text-align: center !important;
+}
 	
 }
 
