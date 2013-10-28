@@ -747,7 +747,6 @@ margin-top: 50px;
 }
 
 @media only screen and (max-width: 479px) {
-	@media only screen and (max-width: 479px)
 .container .grid_1, .container .grid_2, .container .grid_3, .container .grid_4, .container .grid_5, .container .grid_6, .container .grid_7, .container .grid_8, .container .grid_9, .container .grid_10, .container .grid_11, .container .grid_12 {
 width: 100% !important;
 }
